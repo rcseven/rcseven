@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Ryan Edquila
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on web app proj
-- 📫 How to reach me in twitter @arceeseven💌
+- 👋 I’m Ryan Edquila, an aspiring dev and certified tinkerer of technologies💡
 
 <!---
 rcseven/rcseven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
