@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 # 📈 Stats (Public Repo only):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcseven&theme=radical) (https://github-readme-stats.vercel.app/api/top-langs/?username={rcseven}&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcseven&theme=radical) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rcseven&theme=radical)
