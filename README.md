@@ -1,4 +1,4 @@
-### 👋 I’m Ryan Edquila, an aspiring dev and a certified tinkerer of things 💡
+### 👋 I’m Ryan Edquila, a fullstack software engineer 💡
 
 <!---
 rcseven/rcseven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
